@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbfe9490-8ee0-4777-ad94-d0bbcd153205" name="Default Changelist" comment="add 1">
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
+    <list default="true" id="bbfe9490-8ee0-4777-ad94-d0bbcd153205" name="Default Changelist" comment="add 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/site_project_2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_project_2/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659776129244</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add 2">
+      <created>1659857622999</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659857622999</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,7 +95,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -97,6 +116,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 1" />
+    <MESSAGE value="add 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 2" />
   </component>
 </project>
