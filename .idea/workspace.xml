@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbfe9490-8ee0-4777-ad94-d0bbcd153205" name="Default Changelist" comment="add 2">
+    <list default="true" id="bbfe9490-8ee0-4777-ad94-d0bbcd153205" name="Default Changelist" comment="add 3">
+      <change afterPath="$PROJECT_DIR$/blog/templates/blog/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site_project_2/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/site_project_2/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/templates/blog/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/templates/blog/post_list.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +15,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -27,11 +30,18 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\django-sites\site_project_2\blog\templates\blog\img" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="site_project_2" type="Python.DjangoServer" factoryName="Django server">
@@ -69,6 +79,8 @@
       <updated>1659703395892</updated>
       <workItem from="1659703477533" duration="4319000" />
       <workItem from="1659708453290" duration="398000" />
+      <workItem from="1659863752739" duration="2282000" />
+      <workItem from="1659869175234" duration="1942000" />
     </task>
     <task id="LOCAL-00001" summary="add 1">
       <created>1659776129242</created>
@@ -84,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659857622999</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add 3">
+      <created>1659858412002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659858412002</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add 1" />
     <MESSAGE value="add 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 2" />
+    <MESSAGE value="add 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 3" />
   </component>
 </project>
